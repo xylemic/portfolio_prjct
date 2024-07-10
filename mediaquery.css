@@ -1,0 +1,475 @@
+@media (max-width: 576px) {
+  body {
+    width: 100%;
+  }
+
+  .hero {
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-content {
+    padding: 18px;
+  }
+
+  .name {
+    font-size: 1.5em;
+  }
+
+  .occupation {
+    font-size: 1.2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  .about {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+
+  .resume {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .left h3 {
+    font-size: 1.2em;
+  }
+
+  .work-experience,
+  .education {
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .work-experience h2,
+  .education h2 {
+    font-size: 1em;
+    padding: 10px;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .hero-2 {
+    width: 100%;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+
+  .work {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .work-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    padding: 15px;
+    width: 100%;
+  }
+
+  .posts {
+    width: 100%;
+    height: 100%;
+  }
+
+  .posts p {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .post-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .post-container p {
+    width: 100%;
+  }
+
+  .post-child-elems {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .hire {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .left-hand {
+    display: none;
+  }
+
+  .right-hand {
+    width: 100%;
+  }
+
+  textarea {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .hero {
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-content {
+    padding: 18px;
+  }
+
+  .name {
+    font-size: 1.8em;
+  }
+
+  .occupation {
+    font-size: 1.4em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  .about {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .work {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .work-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .posts {
+    width: 100%;
+    height: 100%;
+  }
+
+  .posts p {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .post-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .post-container p {
+    width: 100%;
+  }
+
+  .post-child-elems {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .hire {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .left-hand {
+    display: none;
+  }
+
+  .right-hand {
+    width: 100%;
+  }
+
+  textarea {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .hero {
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-content {
+    padding: 18px;
+  }
+
+  .name {
+    font-size: 1.8em;
+  }
+
+  .occupation {
+    font-size: 1.4em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  .about {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .work {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .work-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .posts {
+    width: 100%;
+    height: 100%;
+  }
+
+  .posts p {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .post-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .post-container p {
+    width: 100%;
+  }
+
+  .post-child-elems {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .hire {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .left-hand {
+    display: none;
+  }
+
+  .right-hand {
+    width: 100%;
+  }
+
+  textarea {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .hero {
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-content {
+    padding: 18px;
+  }
+
+  .name {
+    font-size: 1.8em;
+  }
+
+  .occupation {
+    font-size: 1.4em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  .about {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    width: 100%;
+  }
+
+  .work {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .work-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+    width: 100%;
+  }
+
+  .posts {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .posts p {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .post-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+  }
+
+  .post-container p {
+    width: 100%;
+  }
+
+  .post-child-elems {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .hire {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+  }
+
+  .left-hand {
+    display: none;
+  }
+
+  .right-hand {
+    width: 100%;
+  }
+
+  textarea {
+    margin-bottom: 20px;
+  }
+}
