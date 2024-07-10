@@ -48,7 +48,7 @@ body {
     rgba(9, 188, 245, 1) 100%,
     rgba(9, 188, 245, 1) 100%
   );
-  background-image: url(/images/Daniel_J.jpg);
+  background-image: url(./images/Daniel_J.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -788,6 +788,7 @@ li {
     rgba(74, 62, 67, 1) 0%,
     rgba(41, 42, 43, 1) 0%
   );
+  border-radius: 10px;
 }
 
 .elem2 {
@@ -797,6 +798,7 @@ li {
     rgba(6, 120, 235, 1) 0%,
     rgba(14, 184, 187, 1) 53%
   );
+  border-radius: 10px;
 }
 
 .elem3 {
@@ -806,6 +808,7 @@ li {
     rgba(0, 6, 13, 1) 99%,
     rgba(14, 184, 187, 1) 100%
   );
+  border-radius: 10px;
 }
 
 .hire {
